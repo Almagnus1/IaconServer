@@ -1,0 +1,14 @@
+hats
+logs
+world
+crash-reports
+config/JourneyMapServer
+banned-ips.json
+banned-players.json
+whitelist.json
+usercache.json
+usernamecache.json
+ops.json
+screenlog.0
+*.log
+minecraft_server.*.jar
