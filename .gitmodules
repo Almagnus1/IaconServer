@@ -1,0 +1,3 @@
+[submodule "IaconConfig"]
+	path = config
+	url = https://github.com/Almagnus1/IaconConfig
